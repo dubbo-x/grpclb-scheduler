@@ -3,7 +3,7 @@ This is a gRPC load balancer for go, supports Random, RoundRobin and smooth weig
 
 ![](docs/design.jpg)
 
-grpclb-schduler's some code refer to [github.com/liyue201/grpc-lb](github.com/liyue201/grpc-lb)
+grpclb-schduler's some code refer to [github.com/liyue201/grpc-lb](https://github.com/liyue201/grpc-lb)
 
 ## Modify
 
